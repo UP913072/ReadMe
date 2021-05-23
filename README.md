@@ -24,8 +24,7 @@ function on npm start & on port 8080
 The game is somewhat customisable with color choices
 Scoring
 Show computer deck
-Advanced Dictionary - (Dictionary already implemented before dictionary was handed)
-Pop up messages for invalid choices
+Advanced Dictionary - (Dictionary already implemented before I found about the given one)
 Score calculation works
 
 
@@ -36,4 +35,4 @@ Online Multiplayer with other live player
 Improve
 Database for previous player history/leaderboard
 Make code maintainable and less cluttered,  also use 'let'
-Improve server stability
+Improve game stability
